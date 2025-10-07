@@ -6,7 +6,7 @@ body{
     height: 100vh; /* vh = Altura total da tela (viewport height)*/
     width: 100vw; /*Largura total da tela (viewport width)*/
 
-    backgarud-image: url('IMG/fundo.jpeg'); /*Caminho da imagem de fundo*/
+    backgarud-image: url('fundo.jpeg'); /*Caminho da imagem de fundo*/
     background-size: cover; /*Faz a imagem cobrir a tela toda*/
     background-position: center; /*Centraliza a imagem*/
     background-repeat: no-repeat; /*Evita que a imagem se repita na tela*/
@@ -29,4 +29,5 @@ body{
     text-align: center;
     font-size: 1,5em; /* Almenta a monte de acordo com a largura da página*/
     border-radius: 8px;
+
 }
